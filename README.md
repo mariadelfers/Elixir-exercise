@@ -1,2 +1,2 @@
-# Elixir-exercise
-Set of exercises using Elixir language 
+# Elixir Exercises
+Set of exercises using Elixir language. 
